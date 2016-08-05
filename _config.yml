@@ -1,0 +1,14 @@
+layout_spectrum: 0.45464116567745805
+typography_spectrum: 0.14051749068312347
+color:
+  brandStrength: 0.3929075743071735
+  lightness: 0.9996863743290305
+  saturation: 0.33065700088627636
+  rhythmicContrast: 0.7629237559158355
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+name: jadb
